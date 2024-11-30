@@ -1,0 +1,29 @@
+{
+    "tags": [
+      {
+        "tag": "FIX",
+        "color": "#FF5733",
+        "icon": "/path/to/icons/fix-icon.svg"
+      },
+      {
+        "tag": "FOLLOW",
+        "color": "#33FF57",
+        "icon": "/path/to/icons/follow-icon.svg"
+      },
+      {
+        "tag": "SHARE",
+        "color": "#3385FF",
+        "icon": "/path/to/icons/share-icon.svg"
+      },
+      {
+        "tag": "TODO",
+        "color": "#FFC300",
+        "icon": ""
+      }
+    ],
+    "logs": {
+      "color": "#9C27B0",
+      "icon": "/path/to/icons/log-icon.svg"
+    }
+  }
+  
